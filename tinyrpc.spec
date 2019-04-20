@@ -4,7 +4,7 @@
 #
 Name     : tinyrpc
 Version  : 1.0.1
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/1f/f9/d2f9aa8238fc4f3f92e3912b3768c67e3b74257fdf47da2db391354be285/tinyrpc-1.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1f/f9/d2f9aa8238fc4f3f92e3912b3768c67e3b74257fdf47da2db391354be285/tinyrpc-1.0.1.tar.gz
 Summary  : A small, modular, transport and protocol neutral RPC library that, among other things, supports JSON-RPC and zmq.
