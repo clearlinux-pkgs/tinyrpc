@@ -1,5 +1,5 @@
 PKG_NAME := tinyrpc
-URL = https://files.pythonhosted.org/packages/26/55/1e53e00c8134beb5cf23fb1db775610ed784bdb78109591816368e4b9b1c/tinyrpc-1.0.2.tar.gz
+URL = https://files.pythonhosted.org/packages/21/7a/ff1a74256e1bcc04fbaa414c13a2bb79a29ac9918b25f2238592b991e3bc/tinyrpc-1.0.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
